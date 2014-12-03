@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "gh",
+    "repository": "TheLoonyBin/proprietary_vendor_motorola",
+    "target_path": "vendor/moto/shamu",
+    "revision": "lp5.0"
+  },
+  {
+    "remote": "gh",
+    "repository": "LiquisSmooth-Devices/android_kernel_moto_shamu",
+    "target_path": "kernel/moto/shamu",
+    "revision": "lollipop"
+  }
+]
