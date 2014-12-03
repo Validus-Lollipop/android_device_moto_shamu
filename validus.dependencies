@@ -7,7 +7,7 @@
   },
   {
     "remote": "gh",
-    "repository": "LiquisSmooth-Devices/android_kernel_moto_shamu",
+    "repository": "LiquidSmooth-Devices/android_kernel_moto_shamu",
     "target_path": "kernel/moto/shamu",
     "revision": "lollipop"
   }
