@@ -2,7 +2,7 @@
   {
     "remote": "gh",
     "repository": "TheLoonyBin/proprietary_vendor_motorola",
-    "target_path": "vendor/moto/shamu",
+    "target_path": "vendor/moto",
     "revision": "lp5.0"
   },
   {
